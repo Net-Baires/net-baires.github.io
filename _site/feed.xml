@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>NET-Baires Blog</title>
+    
+    
+    <description>Bienvenidos al blogs de net-baires</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Hola Mundo!</title>
+        <description>
+          Volvemos con todo a la actividad - 
+          Hola Mundo ! Tenemos muchas novedades para contarles y entre ellas inauguramos este blog colaborativo para que puedan subir sus posts. Como se hace ? 1 - Primero hay que hacer un checkout del proyecto en github 2 - En la carpeta de _posts subir un archivo con extension (y...
+        </description>
+        <pubDate>Mon, 07 Nov 2022 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2022-11-07-hola-mundo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-11-07-hola-mundo/</guid>
+      </item>
+    
+  </channel>
+</rss>

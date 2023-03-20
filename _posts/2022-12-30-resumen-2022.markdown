@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Resumen 2023"
+subtitle: Eventos, Anuncios y Meetups
+date:   2022-12-30 00:00:00 -0300
+categories: .net comunidad
+tags: [.net,comunidad]
+comments: true
+---
+
+Hola ! Si no pudiste participar de alguno de los encuentros que hicimos este año te dejo un resumen de las cosas que pasaron y que nos llenan de felicidad.  
+
+# Anuncios y lanzamientos
+El lanzamiento más importante para nuestra comunidad es la de [.NET 7](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/). Cabe destacar también que dentro de esta plataforma tuvimos la nueva versión de [C#](https://devblogs.microsoft.com/dotnet/early-peek-at-csharp-11-features/) y la tan esperada salida de [.NET MAUI](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms/). Una última yapa: tuvimos un update de [.NET Framework](https://devblogs.microsoft.com/dotnet/announcing-dotnet-framework-481/). Que te parece ?
+
+# Eventos
+
+![Microsoft Build 2023!](/assets/img/build.jpg "Microsoft Build 2023")
+
+Dentro de los eventos voy a destacar uno en el que tuve la suerte de estar que fue el Microsoft Build presencial que se realizó en la Ciudad de Buenos Aires. No sólo por el gran nivel técnico y los anuncios que se hicieron, si no que fue lindo volver a la presencialidad en un evento de esa magnitud. Te invito a leer [este post](https://sebaleoperez.github.io/build-2022-latam/) donde cuento un poco más. Otro de los eventos importantes pero que se hizo en forma virtual fue la [.NET Conf](https://youtu.be/8V_BUGFKdaI) donde se anunció la salida de .NET 7 y muchas novedades que te conté en el item anterior. 
+
+# Meetups
+
+![Meetup presencial en The Flock!](/assets/img/theflock.png "Meetup presencial en The Flock")
+
+Esto es lo que más me alegra: volvimos a los meetups presenciales ! Tuvimos dos encuentros, uno gracias a la gente de [The Flock](https://www.theflock.com/) y el otro para cerrar el año bien arriba junto con la gente de [Endava](https://www.endava.com/). Si querés saber más sobre los meetups presenciales te invito a que lo veas en nuestro [sitio de Meetup](https://www.meetup.com/es/net-baires/). Si querés ver cómo es un meetup podés ver algunas de nuestras charlas [acá](https://www.youtube.com/netbaires).
+
+# Nuevo Blog
+Luego de mucho tiempo pudimos reconectarnos y encontrar un sitio donde poder intercambiar nuestras ideas. Te gustaría colaborar con el blog ? Te invito a que leas [este post](https://net-baires.github.io/2022-11-07-hola-mundo/) donde te explico como hacerlo.
+
+Espero volver a encontrarnos en este año nuevo, y que lo comiencen de la mejor forma.  
+Saludos cordiales,  
+
+**Sebastián Pérez**  
+Organizador  
+<https://sebaleoperez.github.io/>

@@ -12,6 +12,73 @@
     
     
       <item>
+        <title>Azure Developers .NET Day 2023</title>
+        <description>
+          Evento para desarrolladores .NET - 
+          Este mes de Abril se realizará una nueva edición del Azure Developers .NET Day, un evento 100% gratuito y virtual lleno de contenido para que los desarrolladores .NET puedan integrar sus soluciones a Azure. Entre los oradores se encontrarán el famoso Scott Hanselman, James Montemagno y un amigo de la...
+        </description>
+        <pubDate>Sun, 19 Mar 2023 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2023-03-19-net-azure-developers/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-03-19-net-azure-developers/</guid>
+      </item>
+    
+      <item>
+        <title>Hack Together: Graph y .NET</title>
+        <description>
+          Hackathon con buenos premios - 
+          
+
+Desarrollás y querés aprender más sobre Microsoft Graph ? No te pierdas esta hackathon virtual con mucho contenido para devs y… tremendos premios ! (hasta una XBOX).
+
+No te lo pierdas !
+
+Mas info:
+https://devblogs.microsoft.com/dotnet/hack-together-microsoft-graph-dotnet/
+
+Sebastián Pérez
+Organizador
+https://sebaleoperez.github.io/
+
+        </description>
+        <pubDate>Wed, 01 Mar 2023 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2023-03-01-hackathon-graph/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-03-01-hackathon-graph/</guid>
+      </item>
+    
+      <item>
+        <title>Novedades del mes de Febrero</title>
+        <description>
+          Anuncios y lanzamientos de febrero - 
+          Nueva versión .NET 7.0.3 con ajustes de seguridad que pueden ser sensibles a tu aplicación. También se actualizó .NET 6 a 6.0.14.Fuente: https://github.com/dotnet/announcements/issues/246 Mejoras en la integración de .NET Framework a Windows 11. Si bien este Framework está siendo dejado de lado todavía hay soporte para que sus aplicaciones funcionen...
+        </description>
+        <pubDate>Tue, 28 Feb 2023 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2023-02-28-ner-febrero/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-02-28-ner-febrero/</guid>
+      </item>
+    
+      <item>
+        <title>Novedades del mes de Enero</title>
+        <description>
+          Anuncios y lanzamientos de enero - 
+          .NET 7 lanza mejoras en su versión 7.0.2, principalmente corrigiendo errores y detalles menores. También se agregaron mejoras a .NET 6 en su versión 6.0.13. Fuente: https://github.com/dotnet/announcements/issues/245 Para los amantes de MVVM que se quedaron con ganas de verlo en .NET MAUI, se anunciaron mejoras al .NET Community Toolkit con...
+        </description>
+        <pubDate>Tue, 31 Jan 2023 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2023-01-31-net-enero/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-01-31-net-enero/</guid>
+      </item>
+    
+      <item>
+        <title>Resumen 2023</title>
+        <description>
+          Eventos, Anuncios y Meetups - 
+          Hola ! Si no pudiste participar de alguno de los encuentros que hicimos este año te dejo un resumen de las cosas que pasaron y que nos llenan de felicidad. Anuncios y lanzamientos El lanzamiento más importante para nuestra comunidad es la de .NET 7. Cabe destacar también que dentro...
+        </description>
+        <pubDate>Fri, 30 Dec 2022 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2022-12-30-resumen-2022/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-12-30-resumen-2022/</guid>
+      </item>
+    
+      <item>
         <title>Hola Mundo!</title>
         <description>
           Volvemos con todo a la actividad - 

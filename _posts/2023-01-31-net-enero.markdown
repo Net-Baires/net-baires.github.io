@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Novedades del mes de Enero"
+subtitle: Anuncios y lanzamientos de enero
+date:   2023-01-31 00:00:00 -0300
+categories: .net maui mvvm
+tags: [.net maui mvvm]
+comments: true
+---
+
+.NET 7 lanza mejoras en su versión 7.0.2, principalmente corrigiendo errores y detalles menores. También se agregaron mejoras a .NET 6 en su versión 6.0.13. Fuente: <https://github.com/dotnet/announcements/issues/245>
+
+Para los amantes de MVVM que se quedaron con ganas de verlo en .NET MAUI, se anunciaron mejoras al .NET Community Toolkit con foco en esta arquitectura. Fuente: <https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-810/>
+
+Problemas para reproducir audios en .NET MAUI ? Ya no... ahora contamos con el MediaElement dentro del paquete .NET Community Toolkit, también con soporte para reproducir videos y streaming. Fuente: <https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-communitytoolkit-mediaelement/>
+
+Nos vemos el próximo mes !
+
+**Sebastián Pérez**  
+Organizador  
+<https://sebaleoperez.github.io/>
+
+

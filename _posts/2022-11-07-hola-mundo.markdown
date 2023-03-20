@@ -28,3 +28,8 @@ Que se puede postear ?
 Cualquier articulo de interes al grupo y a la comunidad .NET. Puede ser algo técnico, novedades u opinión de la misma manera que lo hacemos habitualmente en nuestras reuniones. El único requerimiento es: respeto. No aceptaremos publicaciones ofensivas de ningún tipo.
 
 Gracias por acompañarnos una vez más y esperamos ver tus publicaciones !
+
+
+**Sebastián Pérez**  
+Organizador  
+<https://sebaleoperez.github.io/>

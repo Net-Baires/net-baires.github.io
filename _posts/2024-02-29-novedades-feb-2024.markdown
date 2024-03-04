@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Novedades del mes de Febrero"
+subtitle: Anuncios y lanzamientos
+date:   2024-02-29 00:00:00 -0300
+categories: .net comunidad eventos azure
+tags: [.net,comunidad,eventos,azure]
+comments: true
+---
+
+**Typescript vs C#: Community Standup**
+Tuvimos una nueva Community Standup donde debatimos si es mejor lenguaje C# o Typescript. Si no la viste, la podés ver:
+
+[![Community Standup de Febrero Video](https://img.youtube.com/vi/5P1C6nz76Wo/0.jpg)](https://www.youtube.com/live/5P1C6nz76Wo?si=i8HhUOvq6L74aCj2)
+
+**.NET Aspire preview 3**
+Nueva versión de este framework apuntado al desarrollo en la nube mayormente por aportes de la comunidad. [Más info](https://github.com/dotnet/aspire/releases/tag/v8.0.0-preview.3.24105.21)
+
+**Azure Migrate**
+Se anunció una nueva herramienta para migrar aplicaciones on-premise a Azure de manera muy simple. [Más info](https://devblogs.microsoft.com/dotnet/azure-migrate-app-and-code-assessment-tool-release/?WT.mc_id=DT-MVP-5003354)
+
+**.NET 9 Preview 1**
+Se lanzó la primer preview de .NET 9 con bastantes debates y discuciones sobre el rumbo de esta nueva versión. [Más info](https://github.com/dotnet/core/discussions/9167)
+
+<img src="https://sebaleoperez.github.io/assets/img/sebaleoperez.png" alt="Sebaleoperez" style="width:100px;"/>
+
+**Sebastián Pérez**  
+Organizador  
+<https://sebaleoperez.github.io/>

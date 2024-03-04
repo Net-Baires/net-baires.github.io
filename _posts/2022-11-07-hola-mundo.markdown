@@ -29,6 +29,7 @@ Cualquier articulo de interes al grupo y a la comunidad .NET. Puede ser algo té
 
 Gracias por acompañarnos una vez más y esperamos ver tus publicaciones !
 
+<img src="https://sebaleoperez.github.io/assets/img/sebaleoperez.png" alt="Sebaleoperez" style="width:100px;"/>
 
 **Sebastián Pérez**  
 Organizador  

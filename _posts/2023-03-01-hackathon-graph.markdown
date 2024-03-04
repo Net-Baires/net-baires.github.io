@@ -17,6 +17,8 @@ No te lo pierdas !
 Mas info:
 <https://devblogs.microsoft.com/dotnet/hack-together-microsoft-graph-dotnet/>  
 
+<img src="https://sebaleoperez.github.io/assets/img/sebaleoperez.png" alt="Sebaleoperez" style="width:100px;"/>
+
 **Sebastián Pérez**  
 Organizador  
 <https://sebaleoperez.github.io/>

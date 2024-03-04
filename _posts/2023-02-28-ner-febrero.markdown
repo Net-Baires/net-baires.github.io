@@ -26,6 +26,8 @@ Lanzamiento de la detección de textos similares o "plagios" con ML.NET. Fuente:
 
 Nos vemos el próximo mes !
 
+<img src="https://sebaleoperez.github.io/assets/img/sebaleoperez.png" alt="Sebaleoperez" style="width:100px;"/>
+
 **Sebastián Pérez**  
 Organizador  
 <https://sebaleoperez.github.io/>

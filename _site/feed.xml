@@ -12,6 +12,94 @@
     
     
       <item>
+        <title>Novedades del mes de Febrero</title>
+        <description>
+          Anuncios y lanzamientos - 
+          Typescript vs C#: Community Standup Tuvimos una nueva Community Standup donde debatimos si es mejor lenguaje C# o Typescript. Si no la viste, la podés ver: .NET Aspire preview 3 Nueva versión de este framework apuntado al desarrollo en la nube mayormente por aportes de la comunidad. Más info Azure...
+        </description>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2024-02-29-novedades-feb-2024/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-02-29-novedades-feb-2024/</guid>
+      </item>
+    
+      <item>
+        <title>Novedades del mes de Noviembre</title>
+        <description>
+          Anuncios y lanzamientos - 
+          .NET 8 en nuestra Community standup Se lanzó .NET 8 y reaccionamos a la key note en una Community Standup junto a Fernando Sonego. Si no la viste, la podés ver: Net-Baires Conf Además, tuvimos la primera edición de Net-Baires Conf, una conferencia de .NET en español con los mejores...
+        </description>
+        <pubDate>Thu, 30 Nov 2023 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2023-11-30-novedades-nov-2023/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-11-30-novedades-nov-2023/</guid>
+      </item>
+    
+      <item>
+        <title>Novedades del mes de Octubre</title>
+        <description>
+          Anuncios y lanzamientos - 
+          C# Dev Kit Ya se encuentra en disponibilidad general esta extensión para Visual Studio Code que permite trabajar mejor con proyectos complejos de .NET como .NET MAUI y Unity. Más info Mejoras de performance en .NET MAUI Si hay una componente de la que se tienen expectativas para la nueva...
+        </description>
+        <pubDate>Tue, 31 Oct 2023 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2023-10-31-novedades-oct-2023/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-10-31-novedades-oct-2023/</guid>
+      </item>
+    
+      <item>
+        <title>Novedades del mes de Septiembre</title>
+        <description>
+          Anuncios y lanzamientos - 
+          Nuevas versiones disponibles Ya se pueden actualizar a las versiones 6.0.22 y 7.0.11 para todos los sistemas operativos (Windows, macOS y Linux). Mejoras de performance en .NET 8 Se vienen MUCHAS mejoras a nivel de rendimiento, tantas, que el blog post parece un libro. Lo que sabemos es que si...
+        </description>
+        <pubDate>Sat, 30 Sep 2023 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2023-09-30-novedades-sept-2023/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-09-30-novedades-sept-2023/</guid>
+      </item>
+    
+      <item>
+        <title>Novedades del mes de Agosto</title>
+        <description>
+          Anuncios y lanzamientos - 
+          De verdad se puede hacer eso con IA? Este mes tuvimos una charla especial sobre IA de la mano de Ivana Tilca y Pablo Piovano. Si te la perdiste, la podés ver acá: Se viene la .NET Conf En Noviembre tendremos nueva versión de .NET y por ende un nuevo...
+        </description>
+        <pubDate>Wed, 30 Aug 2023 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2023-08-30-novedades-agosto-2023/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-08-30-novedades-agosto-2023/</guid>
+      </item>
+    
+      <item>
+        <title>Novedades del mes de Julio</title>
+        <description>
+          Anuncios y lanzamientos - 
+          Se viene .NET 8 Estamos cerca del lanzamiento de una nueva versión de .NET y por esto tuvimos un nuevo Community Standup. Si te lo perdiste, lo podés ver acá: .NET MAUI en Visual Studio Code Ahora podés trabajar con .NET MAUI en Visual Studio Code con esta nueva extensión,...
+        </description>
+        <pubDate>Mon, 31 Jul 2023 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2023-07-31-novedades-julio-2023/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-07-31-novedades-julio-2023/</guid>
+      </item>
+    
+      <item>
+        <title>Novedades del mes de Junio</title>
+        <description>
+          Anuncios y lanzamientos - 
+          Microsoft Build Una nueva edición del evento se realizó y tuvimos una Community Standup contando lo más destacado. Si te lo perdiste, lo podés ver acá: Nueva versión del asistente de actualización Sabías que si tenés una aplicación con versiones más antiguas de .NET, podés actualizarla a .NET 7 muy...
+        </description>
+        <pubDate>Fri, 30 Jun 2023 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2023-06-30-novedades-junio-2023/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-06-30-novedades-junio-2023/</guid>
+      </item>
+    
+      <item>
+        <title>Novedades del mes de Abril</title>
+        <description>
+          Anuncios y lanzamientos - 
+          Nuestro canal de Youtube: Tuvimos Community Standup en el mes de Marzo, si te lo perdiste, lo podés ver acá: Actualizaciones en .NET 7: Ahora se pueden instalar los updates de .NET con el comando winget. Más info Polyglot Notebooks en Visual Studio Code: Tal vez escuchaste hablar de Jupyter...
+        </description>
+        <pubDate>Sun, 30 Apr 2023 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2023-04-30-novedades-abril/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-04-30-novedades-abril/</guid>
+      </item>
+    
+      <item>
         <title>Azure Developers .NET Day 2023</title>
         <description>
           Evento para desarrolladores .NET - 
@@ -34,6 +122,8 @@ No te lo pierdas !
 
 Mas info:
 https://devblogs.microsoft.com/dotnet/hack-together-microsoft-graph-dotnet/
+
+
 
 Sebastián Pérez
 Organizador

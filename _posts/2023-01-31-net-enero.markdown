@@ -16,6 +16,8 @@ Problemas para reproducir audios en .NET MAUI ? Ya no... ahora contamos con el M
 
 Nos vemos el próximo mes !
 
+<img src="https://sebaleoperez.github.io/assets/img/sebaleoperez.png" alt="Sebaleoperez" style="width:100px;"/>
+
 **Sebastián Pérez**  
 Organizador  
 <https://sebaleoperez.github.io/>

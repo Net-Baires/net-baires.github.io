@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Novedades del mes de Noviembre"
+subtitle: Anuncios y lanzamientos
+date:   2023-11-30 00:00:00 -0300
+categories: .net comunidad eventos azure
+tags: [.net,comunidad,eventos,azure]
+comments: true
+---
+
+**.NET 8 en nuestra Community standup**
+Se lanzó .NET 8 y reaccionamos a la key note en una Community Standup junto a Fernando Sonego. Si no la viste, la podés ver:
+
+[![Community Standup de Noviembre Video](https://img.youtube.com/vi/m3JUWJiRje8/0.jpg)](https://www.youtube.com/live/m3JUWJiRje8?si=qPG8YNORAbt7X3KR)
+
+**Net-Baires Conf**
+
+Además, tuvimos la primera edición de Net-Baires Conf, una conferencia de .NET en español con los mejores referentes de la comunidad sobre todo lo nuevo en .NET 8. Acá te dejo los videos:
+
+[![Net-Baires Conf Dia 1](https://img.youtube.com/vi/CPU_VZiRLw0/0.jpg)](https://www.youtube.com/live/CPU_VZiRLw0?si=ELTEonzkqDHnLQgy)
+
+[![Net-Baires Conf Dia 2](https://img.youtube.com/vi/c8p3eBSvakI/0.jpg)](https://www.youtube.com/live/c8p3eBSvakI?si=HfVQzJuCETghOBtf)
+
+**Mejoras en la compilación de F#**
+Una de las tareas que más tarda en compilar es la comprobación de tipos. Por eso, se cambió la forma en que se realiza para que funcione más rápido. [Más info](https://devblogs.microsoft.com/dotnet/a-new-fsharp-compiler-feature-graphbased-typechecking/?WT.mc_id=DT-MVP-5003354)
+
+**.NET Aspire**
+Se anunció un nuevo framework de .NET para el desarrollo de aplicaciones en la nube de forma que sea más fácil y rápido. [Más info](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8/?WT.mc_id=DT-MVP-5003354)
+
+Nos vemos el próximo mes !
+
+<img src="https://sebaleoperez.github.io/assets/img/sebaleoperez.png" alt="Sebaleoperez" style="width:100px;"/>
+
+**Sebastián Pérez**  
+Organizador  
+<https://sebaleoperez.github.io/>

@@ -15,6 +15,8 @@ No te lo pierdas !
 Registro:
 <https://learn.microsoft.com/en-us/events/learn-events/azuredeveloper-dotnetday/>  
 
+<img src="https://sebaleoperez.github.io/assets/img/sebaleoperez.png" alt="Sebaleoperez" style="width:100px;"/>
+
 **Sebastián Pérez**  
 Organizador  
 <https://sebaleoperez.github.io/>

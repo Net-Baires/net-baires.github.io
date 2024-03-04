@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Novedades del mes de Octubre"
+subtitle: Anuncios y lanzamientos
+date:   2023-10-31 00:00:00 -0300
+categories: .net comunidad eventos azure
+tags: [.net,comunidad,eventos,azure]
+comments: true
+---
+
+**C# Dev Kit**
+Ya se encuentra en disponibilidad general esta extensión para Visual Studio Code que permite trabajar mejor con proyectos complejos de .NET como .NET MAUI y Unity. [Más info](https://devblogs.microsoft.com/dotnet/csharp-dev-kit-now-generally-available/?WT.mc_id=DT-MVP-5003354)
+
+**Mejoras de performance en .NET MAUI**
+Si hay una componente de la que se tienen expectativas para la nueva versión de .NET que está por salir es .NET MAUI. Se han anunciado muchas mejoras de performance que podrán ver detalladas en el blog post. [Más info](https://devblogs.microsoft.com/dotnet/dotnet-8-performance-improvements-in-dotnet-maui/?WT.mc_id=DT-MVP-5003354)
+
+**Performance en AMD64**
+Siguiendo el capítulo de las mejoras, en esta oportunidad se publicaron una serie de mejoras de rendimiento para aplicaciones .NET en arquitecturas AMD64. [Más info](https://devblogs.microsoft.com/dotnet/this-arm64-performance-in-dotnet-8/?WT.mc_id=DT-MVP-5003354)
+
+Nos vemos el próximo mes !
+
+<img src="https://sebaleoperez.github.io/assets/img/sebaleoperez.png" alt="Sebaleoperez" style="width:100px;"/>
+
+**Sebastián Pérez**  
+Organizador  
+<https://sebaleoperez.github.io/>
